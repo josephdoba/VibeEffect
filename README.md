@@ -2,7 +2,7 @@
 
 Non-LLM, Vegan friendly code, makes the effects go brr:
 
-!()[https://github.com/josephdoba/VibeEffects/blob/main/public/vibecode.gif]
+!(oof)[https://github.com/josephdoba/VibeEffects/blob/main/public/vibecode.gif]
 
 # Over-engineered with the following technologies:
 
