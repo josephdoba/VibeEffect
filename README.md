@@ -2,7 +2,7 @@
 
 Non-LLM, Vegan friendly code, makes the effects go brr:
 
-!(oof)[https://github.com/josephdoba/VibeEffects/blob/main/public/vibecode.gif]
+![](./public/vibecode.gif)
 
 # Over-engineered with the following technologies:
 
@@ -11,4 +11,4 @@ Non-LLM, Vegan friendly code, makes the effects go brr:
 - ThreeJS
 - Fiber
 - NoiseJS
-- Definitely not ChatGPT Pro o4 mini
+- Definitely not ChatGPT-4o
